@@ -3,11 +3,7 @@
 ### Modules 
 * [Link to 4063C Modules](https://github.com/IT4063/4063C) 
 
-### Schedule Office Hours 
-* [link](https://uc.instructure.com/courses/1666166#:~:text=Request%20Office%20Hours,an%20external%20site.) 
-
 ### Other resources
-* [Ask your classmates](https://uc.instructure.com/courses/1666166/discussion_topics/8564268)
 * [Ask Stack Overflow](https://stackoverflow.com/)
 * [Ask the Snowflake Community](https://community.snowflake.com/s/)
 * [Ask the Python Community](https://www.python.org/community/)
